@@ -26,7 +26,7 @@ function CardPersonagens({name, height, birth_year, image, mass } : Personangens
         component="img"
         height="160"
         image={image}
-
+        alt='Imagem personagens Star Wars'
       />
       <CardContent >
         <Typography gutterBottom variant="h5" component="div" sx={{color:'#def6ff'}}>

@@ -19,6 +19,7 @@ function CardDefault({image, title, release_date, opening_crawl, episode_id} : M
         component="img"
         height="160"
         image={image}
+        alt='Imagem filme Star Wars'
       />
       <CardContent sx={{height:{xs:'23rem', sm:'20rem'}}}>
         <Typography gutterBottom variant="h5" component="div" sx={{color:'#def6ff'}}>
