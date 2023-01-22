@@ -23,12 +23,12 @@ useEffect(() => {
 
 
 let arrayFilms = [
-     '/assets/images/newHope.jpg',
-     '/assets/images/theEmpire.jpg',
-     '/assets/images/ReturnOfTheJedi.jpg',
-     '/assets/images/thePanton.jpg',
-     '/assets/images/atackClones.jpg',
-     '/assets/images/revenge.jpg',
+     '/assets/newHope.jpg',
+     '/assets/theEmpire.jpg',
+     '/assets/ReturnOfTheJedi.jpg',
+     '/assets/thePanton.jpg',
+     '/assets/atackClones.jpg',
+     '/assets/revenge.jpg',
     ];
 
     return(
