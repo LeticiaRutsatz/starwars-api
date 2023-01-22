@@ -20,7 +20,7 @@ function Header() {
       }}>
         <Box sx={{
             height:{xs:'20vh', md:'50vh'},
-            backgroundImage:'url(/assets/logo-star.png)', 
+            backgroundImage:'url(/logo-star.png)', 
             backgroundSize:'contain', backgroundRepeat:'no-repeat', 
             marginLeft: {xs:'2rem', md:'4rem'}
           }}>
