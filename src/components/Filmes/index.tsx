@@ -38,7 +38,14 @@ let arrayFilms = [
             paddingLeft: '4rem',
             paddingRight: '4rem'
           }}>
-            <Typography variant="h3" sx={{color:'#038bbb', fontFamily:'Poppins', fontWeight:'600', paddingLeft:{md:'3rem'}}}>Movies</Typography>
+            <Typography variant="h3" sx={{
+                color:'#038bbb', 
+                fontFamily:'Poppins', 
+                fontWeight:'600', 
+                paddingLeft:{md:'3rem'}
+                }}>
+                    Movies
+                </Typography>
             
             <Grid container maxWidth='100%'>
                 {movies.map((dado, index) => (
