@@ -16,16 +16,16 @@ useEffect(() => {
 
 
 let arrayPersonagens = [
-     '/assets/luke.jpg',
-     '/assets/c3po.jpg',
-     '/assets/r2d2.jpg',
-     '/assets/darthVader.jpg',
-     '/assets/leia.jpg',
-     '/assets/owen.jpg',
-     '/assets/beru.jpg',
-     '/assets/r5-d4.jfif',
-     '/assets/biggs.jpg',
-     '/assets/obi.jfif',
+     '/luke.jpg',
+     '/c3po.jpg',
+     '/r2d2.jpg',
+     '/darthVader.jpg',
+     '/leia.jpg',
+     '/owen.jpg',
+     '/beru.jpg',
+     '/r5-d4.jfif',
+     '/biggs.jpg',
+     '/obi.jpg',
 ];
 
     return(
